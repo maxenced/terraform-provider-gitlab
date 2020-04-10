@@ -1,4 +1,12 @@
 ## 2.7.0 (Unreleased)
+
+## 2.6.0-claranet (Unreleased)
+
+Based on official 2.6.0 tag, only differences are:
+
+FEATURES:
+* **New Resource:** `gitlab_group_members`
+
 ## 2.6.0 (April 08, 2020)
 
 ENHANCEMENTS:
